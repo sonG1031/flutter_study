@@ -1,16 +1,5 @@
-# myapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###2022/04/17
+1. Flutter의 모든 것은 Widget
+2. 위젯이 전혀 변화가 없으면 stateless widgets
+3. 위젯의 모양이나 상태가 바뀐다면 stateful widgets
+4. 위젯은 트리구조로 구성됨
